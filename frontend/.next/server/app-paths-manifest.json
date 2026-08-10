@@ -1,0 +1,10 @@
+{
+  "/page": "app/page.js",
+  "/login/page": "app/login/page.js",
+  "/health-log/page": "app/health-log/page.js",
+  "/quiz/[organId]/page": "app/quiz/[organId]/page.js",
+  "/register/page": "app/register/page.js",
+  "/organs/[id]/page": "app/organs/[id]/page.js",
+  "/analytics/page": "app/analytics/page.js",
+  "/systems/[id]/page": "app/systems/[id]/page.js"
+}
