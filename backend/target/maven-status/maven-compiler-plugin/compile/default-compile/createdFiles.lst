@@ -8,6 +8,7 @@ com\anatomyiq\entity\HealthLog.class
 com\anatomyiq\entity\QuizSubmission.class
 com\anatomyiq\exception\ForbiddenException.class
 com\anatomyiq\exception\NotFoundException.class
+com\anatomyiq\controller\RootController.class
 com\anatomyiq\dto\HealthLogRequest.class
 com\anatomyiq\entity\User.class
 com\anatomyiq\repository\QuizSubmissionRepository.class

@@ -1,37 +1,38 @@
-C:\Users\Sitta\Documents\VSCode\ANATOMY - IQ\backend\src\main\java\com\anatomyiq\AnatomyIqApplication.java
-C:\Users\Sitta\Documents\VSCode\ANATOMY - IQ\backend\src\main\java\com\anatomyiq\repository\QuizSubmissionRepository.java
-C:\Users\Sitta\Documents\VSCode\ANATOMY - IQ\backend\src\main\java\com\anatomyiq\controller\OrganController.java
-C:\Users\Sitta\Documents\VSCode\ANATOMY - IQ\backend\src\main\java\com\anatomyiq\security\CorsConfig.java
-C:\Users\Sitta\Documents\VSCode\ANATOMY - IQ\backend\src\main\java\com\anatomyiq\security\JwtUtil.java
-C:\Users\Sitta\Documents\VSCode\ANATOMY - IQ\backend\src\main\java\com\anatomyiq\service\BodySystemService.java
-C:\Users\Sitta\Documents\VSCode\ANATOMY - IQ\backend\src\main\java\com\anatomyiq\dto\LoginRequest.java
-C:\Users\Sitta\Documents\VSCode\ANATOMY - IQ\backend\src\main\java\com\anatomyiq\controller\BodySystemController.java
-C:\Users\Sitta\Documents\VSCode\ANATOMY - IQ\backend\src\main\java\com\anatomyiq\repository\BodySystemRepository.java
-C:\Users\Sitta\Documents\VSCode\ANATOMY - IQ\backend\src\main\java\com\anatomyiq\repository\OrganRepository.java
-C:\Users\Sitta\Documents\VSCode\ANATOMY - IQ\backend\src\main\java\com\anatomyiq\exception\UnauthorizedException.java
-C:\Users\Sitta\Documents\VSCode\ANATOMY - IQ\backend\src\main\java\com\anatomyiq\service\HealthLogService.java
-C:\Users\Sitta\Documents\VSCode\ANATOMY - IQ\backend\src\main\java\com\anatomyiq\controller\QuizController.java
-C:\Users\Sitta\Documents\VSCode\ANATOMY - IQ\backend\src\main\java\com\anatomyiq\dto\LoginResponse.java
-C:\Users\Sitta\Documents\VSCode\ANATOMY - IQ\backend\src\main\java\com\anatomyiq\exception\NotFoundException.java
-C:\Users\Sitta\Documents\VSCode\ANATOMY - IQ\backend\src\main\java\com\anatomyiq\service\UserService.java
-C:\Users\Sitta\Documents\VSCode\ANATOMY - IQ\backend\src\main\java\com\anatomyiq\repository\UserRepository.java
-C:\Users\Sitta\Documents\VSCode\ANATOMY - IQ\backend\src\main\java\com\anatomyiq\dto\RegisterRequest.java
-C:\Users\Sitta\Documents\VSCode\ANATOMY - IQ\backend\src\main\java\com\anatomyiq\entity\HealthLog.java
-C:\Users\Sitta\Documents\VSCode\ANATOMY - IQ\backend\src\main\java\com\anatomyiq\service\QuizQuestionService.java
-C:\Users\Sitta\Documents\VSCode\ANATOMY - IQ\backend\src\main\java\com\anatomyiq\dto\QuizSubmissionRequest.java
-C:\Users\Sitta\Documents\VSCode\ANATOMY - IQ\backend\src\main\java\com\anatomyiq\repository\QuizQuestionRepository.java
-C:\Users\Sitta\Documents\VSCode\ANATOMY - IQ\backend\src\main\java\com\anatomyiq\repository\HealthLogRepository.java
-C:\Users\Sitta\Documents\VSCode\ANATOMY - IQ\backend\src\main\java\com\anatomyiq\entity\User.java
-C:\Users\Sitta\Documents\VSCode\ANATOMY - IQ\backend\src\main\java\com\anatomyiq\dto\HealthLogRequest.java
-C:\Users\Sitta\Documents\VSCode\ANATOMY - IQ\backend\src\main\java\com\anatomyiq\entity\QuizQuestion.java
-C:\Users\Sitta\Documents\VSCode\ANATOMY - IQ\backend\src\main\java\com\anatomyiq\controller\AuthController.java
-C:\Users\Sitta\Documents\VSCode\ANATOMY - IQ\backend\src\main\java\com\anatomyiq\entity\QuizSubmission.java
-C:\Users\Sitta\Documents\VSCode\ANATOMY - IQ\backend\src\main\java\com\anatomyiq\entity\BodySystem.java
-C:\Users\Sitta\Documents\VSCode\ANATOMY - IQ\backend\src\main\java\com\anatomyiq\exception\ForbiddenException.java
-C:\Users\Sitta\Documents\VSCode\ANATOMY - IQ\backend\src\main\java\com\anatomyiq\dto\AnswerDto.java
-C:\Users\Sitta\Documents\VSCode\ANATOMY - IQ\backend\src\main\java\com\anatomyiq\service\OrganService.java
-C:\Users\Sitta\Documents\VSCode\ANATOMY - IQ\backend\src\main\java\com\anatomyiq\controller\HealthLogController.java
-C:\Users\Sitta\Documents\VSCode\ANATOMY - IQ\backend\src\main\java\com\anatomyiq\dto\QuizSubmissionResponse.java
-C:\Users\Sitta\Documents\VSCode\ANATOMY - IQ\backend\src\main\java\com\anatomyiq\entity\Organ.java
-C:\Users\Sitta\Documents\VSCode\ANATOMY - IQ\backend\src\main\java\com\anatomyiq\exception\BadRequestException.java
-C:\Users\Sitta\Documents\VSCode\ANATOMY - IQ\backend\src\main\java\com\anatomyiq\security\JwtFilter.java
+C:\Users\Sitta\Documents\VSCode\ANATOMY-IQ\backend\src\main\java\com\anatomyiq\repository\QuizSubmissionRepository.java
+C:\Users\Sitta\Documents\VSCode\ANATOMY-IQ\backend\src\main\java\com\anatomyiq\entity\QuizQuestion.java
+C:\Users\Sitta\Documents\VSCode\ANATOMY-IQ\backend\src\main\java\com\anatomyiq\exception\ForbiddenException.java
+C:\Users\Sitta\Documents\VSCode\ANATOMY-IQ\backend\src\main\java\com\anatomyiq\security\CorsConfig.java
+C:\Users\Sitta\Documents\VSCode\ANATOMY-IQ\backend\src\main\java\com\anatomyiq\service\QuizQuestionService.java
+C:\Users\Sitta\Documents\VSCode\ANATOMY-IQ\backend\src\main\java\com\anatomyiq\security\JwtUtil.java
+C:\Users\Sitta\Documents\VSCode\ANATOMY-IQ\backend\src\main\java\com\anatomyiq\entity\User.java
+C:\Users\Sitta\Documents\VSCode\ANATOMY-IQ\backend\src\main\java\com\anatomyiq\exception\BadRequestException.java
+C:\Users\Sitta\Documents\VSCode\ANATOMY-IQ\backend\src\main\java\com\anatomyiq\repository\UserRepository.java
+C:\Users\Sitta\Documents\VSCode\ANATOMY-IQ\backend\src\main\java\com\anatomyiq\entity\BodySystem.java
+C:\Users\Sitta\Documents\VSCode\ANATOMY-IQ\backend\src\main\java\com\anatomyiq\security\JwtFilter.java
+C:\Users\Sitta\Documents\VSCode\ANATOMY-IQ\backend\src\main\java\com\anatomyiq\dto\RegisterRequest.java
+C:\Users\Sitta\Documents\VSCode\ANATOMY-IQ\backend\src\main\java\com\anatomyiq\entity\QuizSubmission.java
+C:\Users\Sitta\Documents\VSCode\ANATOMY-IQ\backend\src\main\java\com\anatomyiq\controller\AuthController.java
+C:\Users\Sitta\Documents\VSCode\ANATOMY-IQ\backend\src\main\java\com\anatomyiq\controller\QuizController.java
+C:\Users\Sitta\Documents\VSCode\ANATOMY-IQ\backend\src\main\java\com\anatomyiq\controller\HealthLogController.java
+C:\Users\Sitta\Documents\VSCode\ANATOMY-IQ\backend\src\main\java\com\anatomyiq\entity\Organ.java
+C:\Users\Sitta\Documents\VSCode\ANATOMY-IQ\backend\src\main\java\com\anatomyiq\AnatomyIqApplication.java
+C:\Users\Sitta\Documents\VSCode\ANATOMY-IQ\backend\src\main\java\com\anatomyiq\service\UserService.java
+C:\Users\Sitta\Documents\VSCode\ANATOMY-IQ\backend\src\main\java\com\anatomyiq\dto\HealthLogRequest.java
+C:\Users\Sitta\Documents\VSCode\ANATOMY-IQ\backend\src\main\java\com\anatomyiq\service\OrganService.java
+C:\Users\Sitta\Documents\VSCode\ANATOMY-IQ\backend\src\main\java\com\anatomyiq\repository\HealthLogRepository.java
+C:\Users\Sitta\Documents\VSCode\ANATOMY-IQ\backend\src\main\java\com\anatomyiq\dto\QuizSubmissionRequest.java
+C:\Users\Sitta\Documents\VSCode\ANATOMY-IQ\backend\src\main\java\com\anatomyiq\repository\OrganRepository.java
+C:\Users\Sitta\Documents\VSCode\ANATOMY-IQ\backend\src\main\java\com\anatomyiq\repository\QuizQuestionRepository.java
+C:\Users\Sitta\Documents\VSCode\ANATOMY-IQ\backend\src\main\java\com\anatomyiq\dto\LoginResponse.java
+C:\Users\Sitta\Documents\VSCode\ANATOMY-IQ\backend\src\main\java\com\anatomyiq\controller\BodySystemController.java
+C:\Users\Sitta\Documents\VSCode\ANATOMY-IQ\backend\src\main\java\com\anatomyiq\dto\LoginRequest.java
+C:\Users\Sitta\Documents\VSCode\ANATOMY-IQ\backend\src\main\java\com\anatomyiq\repository\BodySystemRepository.java
+C:\Users\Sitta\Documents\VSCode\ANATOMY-IQ\backend\src\main\java\com\anatomyiq\dto\AnswerDto.java
+C:\Users\Sitta\Documents\VSCode\ANATOMY-IQ\backend\src\main\java\com\anatomyiq\controller\OrganController.java
+C:\Users\Sitta\Documents\VSCode\ANATOMY-IQ\backend\src\main\java\com\anatomyiq\controller\RootController.java
+C:\Users\Sitta\Documents\VSCode\ANATOMY-IQ\backend\src\main\java\com\anatomyiq\entity\HealthLog.java
+C:\Users\Sitta\Documents\VSCode\ANATOMY-IQ\backend\src\main\java\com\anatomyiq\service\HealthLogService.java
+C:\Users\Sitta\Documents\VSCode\ANATOMY-IQ\backend\src\main\java\com\anatomyiq\dto\QuizSubmissionResponse.java
+C:\Users\Sitta\Documents\VSCode\ANATOMY-IQ\backend\src\main\java\com\anatomyiq\service\BodySystemService.java
+C:\Users\Sitta\Documents\VSCode\ANATOMY-IQ\backend\src\main\java\com\anatomyiq\exception\UnauthorizedException.java
+C:\Users\Sitta\Documents\VSCode\ANATOMY-IQ\backend\src\main\java\com\anatomyiq\exception\NotFoundException.java

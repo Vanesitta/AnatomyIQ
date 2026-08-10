@@ -19,7 +19,8 @@ public class CorsConfig implements WebMvcConfigurer {
                         "http://10.6.2.110:3002",
                         "http://10.56.238.38:3000",
                         "http://10.56.238.38:3001",
-                        "http://10.56.238.38:3002"
+                        "http://10.56.238.38:3002",
+                        "https://anatomy-iq.vercel.app"
                 )
                 .allowedMethods("GET", "POST", "PUT", "DELETE", "OPTIONS")
                 .allowedHeaders("*")
